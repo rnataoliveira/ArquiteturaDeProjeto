@@ -42,8 +42,12 @@ namespace Agenda
             {
                 if (SearchName.Equals(c.Name))
                 {
-                    Console.WriteLine("Nome: {0}",c.Name);
+                    Console.WriteLine("Nome: {0}", c.Name);
                     Console.WriteLine("Phone: {0}", c.Phone);
+                }
+                else
+                {
+                    Console.WriteLine("Contato não existe!");
                 }
             }
 

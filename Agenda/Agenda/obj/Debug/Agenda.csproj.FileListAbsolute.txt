@@ -4,3 +4,9 @@ C:\Users\renat\dev\Impacta\Arquitetura de Projeto\Agenda Telefônica\Agenda\Agen
 C:\Users\renat\dev\Impacta\Arquitetura de Projeto\Agenda Telefônica\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
 C:\Users\renat\dev\Impacta\Arquitetura de Projeto\Agenda Telefônica\Agenda\Agenda\obj\Debug\Agenda.exe
 C:\Users\renat\dev\Impacta\Arquitetura de Projeto\Agenda Telefônica\Agenda\Agenda\obj\Debug\Agenda.pdb
+C:\Users\Renata Oliveira\dev\ArquiteturaEProjetoDeSistemas\Agenda\Agenda\bin\Debug\Agenda.exe.config
+C:\Users\Renata Oliveira\dev\ArquiteturaEProjetoDeSistemas\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Renata Oliveira\dev\ArquiteturaEProjetoDeSistemas\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Renata Oliveira\dev\ArquiteturaEProjetoDeSistemas\Agenda\Agenda\obj\Debug\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\Renata Oliveira\dev\ArquiteturaEProjetoDeSistemas\Agenda\Agenda\obj\Debug\Agenda.exe
+C:\Users\Renata Oliveira\dev\ArquiteturaEProjetoDeSistemas\Agenda\Agenda\obj\Debug\Agenda.pdb
